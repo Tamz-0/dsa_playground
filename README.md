@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tamz-0/dsa_playground/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Tamz-0/dsa_playground/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamz-0/dsa_playground/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
