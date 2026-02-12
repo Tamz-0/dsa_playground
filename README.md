@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tamz-0/dsa_playground/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Tamz-0/dsa_playground/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tamz-0/dsa_playground/tree/master/0070-climbing-stairs) |
 | [3640-trionic-array-ii](https://github.com/Tamz-0/dsa_playground/tree/master/3640-trionic-array-ii) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tamz-0/dsa_playground/tree/master/2073-time-needed-to-buy-tickets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
