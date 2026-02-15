@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Tamz-0/dsa_playground/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tamz-0/dsa_playground/tree/master/2351-first-letter-to-appear-twice) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Tamz-0/dsa_playground/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## String
@@ -138,5 +140,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
