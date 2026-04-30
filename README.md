@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
+| [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tamz-0/dsa_playground/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
