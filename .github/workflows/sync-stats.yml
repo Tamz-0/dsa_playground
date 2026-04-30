@@ -1,0 +1,93 @@
+name: Sync Stats to Dashboard
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout LeetCode repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate stats.json
+        run: |
+          python3 << 'EOF'
+          import os, json, re
+
+          shas = {}
+          easy = medium = hard = 0
+
+          for folder in sorted(os.listdir('.')):
+            if not re.match(r'^\d{4}-', folder):
+              continue
+            folder_path = os.path.join('.', folder)
+            if not os.path.isdir(folder_path):
+              continue
+
+            entry = {}
+            difficulty = None
+
+            for fname in os.listdir(folder_path):
+              fpath = os.path.join(folder_path, fname)
+              if fname == 'README.md':
+                entry['README.md'] = 'auto'
+                with open(fpath, 'r', encoding='utf-8', errors='ignore') as f:
+                  content = f.read()
+                  match = re.search(r'<h3>(Easy|Medium|Hard)</h3>', content, re.IGNORECASE)
+                  if match:
+                    difficulty = match.group(1).lower()
+              elif fname.endswith(('.cpp', '.java', '.js', '.py', '.ts')):
+                entry[fname] = 'auto'
+
+            if difficulty:
+              entry['difficulty'] = difficulty
+              if difficulty == 'easy': easy += 1
+              elif difficulty == 'medium': medium += 1
+              elif difficulty == 'hard': hard += 1
+            elif entry:
+              entry['difficulty'] = 'easy'
+              easy += 1
+
+            if entry:
+              shas[folder] = entry
+
+          stats = {
+            "leetcode": {
+              "easy": easy,
+              "medium": medium,
+              "hard": hard,
+              "solved": easy + medium + hard,
+              "shas": shas
+            }
+          }
+
+          with open('stats.json', 'w') as f:
+            json.dump(stats, f, indent=2)
+
+          print(f"Done: {easy} easy, {medium} medium, {hard} hard")
+          EOF
+
+      - name: Trigger dashboard repo dispatch
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.DASHBOARD_PAT }}" \
+            https://api.github.com/repos/Tamz-0/dsa-playground/dispatches \
+            -d '{"event_type":"sync-from-leetcode"}'
+
+      - name: Commit updated stats.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.json
+          git diff --staged --quiet || git commit -m "chore: auto-update stats.json"
+          git push
