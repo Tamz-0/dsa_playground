@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamz-0/dsa_playground/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Tamz-0/dsa_playground/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0234-palindrome-linked-list) |
 ## Greedy
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Tamz-0/dsa_playground/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tamz-0/dsa_playground/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tamz-0/dsa_playground/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Tamz-0/dsa_playground/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
