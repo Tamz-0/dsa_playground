@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tamz-0/dsa_playground/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Tamz-0/dsa_playground/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Tamz-0/dsa_playground/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tamz-0/dsa_playground/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tamz-0/dsa_playground/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Tamz-0/dsa_playground/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tamz-0/dsa_playground/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Tamz-0/dsa_playground/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
