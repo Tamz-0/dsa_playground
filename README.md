@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2073-time-needed-to-buy-tickets](https://github.com/Tamz-0/dsa_playground/tree/master/2073-time-needed-to-buy-tickets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tamz-0/dsa_playground/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Tamz-0/dsa_playground/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Tamz-0/dsa_playground/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3637-trionic-array-i](https://github.com/Tamz-0/dsa_playground/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Tamz-0/dsa_playground/tree/master/3640-trionic-array-ii) |
 ## Binary Search
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1486-xor-operation-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/Tamz-0/dsa_playground/tree/master/2652-sum-multiples) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Tamz-0/dsa_playground/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
 | ------- |
