@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tamz-0/dsa_playground/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tamz-0/dsa_playground/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Tamz-0/dsa_playground/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tamz-0/dsa_playground/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Tamz-0/dsa_playground/tree/master/3024-type-of-triangle) |
 ## Enumeration
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Tamz-0/dsa_playground/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tamz-0/dsa_playground/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Tamz-0/dsa_playground/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [1390-four-divisors](https://github.com/Tamz-0/dsa_playground/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1822-sign-of-the-product-of-an-array) |
