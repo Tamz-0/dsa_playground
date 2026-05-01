@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tamz-0/dsa_playground/tree/master/2351-first-letter-to-appear-twice) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Tamz-0/dsa_playground/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Tamz-0/dsa_playground/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tamz-0/dsa_playground/tree/master/1266-minimum-time-visiting-all-points) |
