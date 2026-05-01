@@ -45,7 +45,7 @@ jobs:
                   match = re.search(r'<h3>(Easy|Medium|Hard)</h3>', content, re.IGNORECASE)
                   if match:
                     difficulty = match.group(1).lower()
-              elif fname.endswith(('.cpp', '.java', '.js', '.py', '.ts')):
+              elif fname.endswith(('.cpp', '.java', '.js', '.py', '.ts', '.c')):
                 entry[fname] = 'auto'
 
             if difficulty:
