@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tamz-0/dsa_playground/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Tamz-0/dsa_playground/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0234-palindrome-linked-list) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Tamz-0/dsa_playground/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
