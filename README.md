@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Tamz-0/dsa_playground/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tamz-0/dsa_playground/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Tamz-0/dsa_playground/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tamz-0/dsa_playground/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
