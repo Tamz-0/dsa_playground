@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Tamz-0/dsa_playground/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Tamz-0/dsa_playground/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tamz-0/dsa_playground/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
