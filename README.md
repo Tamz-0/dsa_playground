@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/Tamz-0/dsa_playground/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1137-n-th-tribonacci-number](https://github.com/Tamz-0/dsa_playground/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tamz-0/dsa_playground/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Tamz-0/dsa_playground/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1486-xor-operation-in-an-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Tamz-0/dsa_playground/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamz-0/dsa_playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0152-maximum-product-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/Tamz-0/dsa_playground/tree/master/1137-n-th-tribonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Tamz-0/dsa_playground/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3640-trionic-array-ii](https://github.com/Tamz-0/dsa_playground/tree/master/3640-trionic-array-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tamz-0/dsa_playground/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Tamz-0/dsa_playground/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
