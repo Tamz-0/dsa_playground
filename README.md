@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tamz-0/dsa_playground/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Tamz-0/dsa_playground/tree/master/1390-four-divisors) |
 | [1550-three-consecutive-odds](https://github.com/Tamz-0/dsa_playground/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/Tamz-0/dsa_playground/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tamz-0/dsa_playground/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0054-spiral-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Tamz-0/dsa_playground/tree/master/1672-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
 | ------- |
