@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Tamz-0/dsa_playground/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tamz-0/dsa_playground/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Tamz-0/dsa_playground/tree/master/1390-four-divisors) |
+| [1550-three-consecutive-odds](https://github.com/Tamz-0/dsa_playground/tree/master/1550-three-consecutive-odds) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tamz-0/dsa_playground/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1822-sign-of-the-product-of-an-array) |
