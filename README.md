@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1390-four-divisors](https://github.com/Tamz-0/dsa_playground/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Tamz-0/dsa_playground/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Tamz-0/dsa_playground/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Tamz-0/dsa_playground/tree/master/2769-find-the-maximum-achievable-number) |
