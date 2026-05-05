@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tamz-0/dsa_playground/tree/master/2073-time-needed-to-buy-tickets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tamz-0/dsa_playground/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2942-find-words-containing-character](https://github.com/Tamz-0/dsa_playground/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Tamz-0/dsa_playground/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tamz-0/dsa_playground/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Tamz-0/dsa_playground/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tamz-0/dsa_playground/tree/master/2351-first-letter-to-appear-twice) |
+| [2942-find-words-containing-character](https://github.com/Tamz-0/dsa_playground/tree/master/2942-find-words-containing-character) |
 ## Bit Manipulation
 |  |
 | ------- |
