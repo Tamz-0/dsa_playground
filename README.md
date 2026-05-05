@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tamz-0/dsa_playground/tree/master/2073-time-needed-to-buy-tickets) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Tamz-0/dsa_playground/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tamz-0/dsa_playground/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tamz-0/dsa_playground/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tamz-0/dsa_playground/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Tamz-0/dsa_playground/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tamz-0/dsa_playground/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Tamz-0/dsa_playground/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tamz-0/dsa_playground/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tamz-0/dsa_playground/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/Tamz-0/dsa_playground/tree/master/2942-find-words-containing-character) |
