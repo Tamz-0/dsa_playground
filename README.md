@@ -308,18 +308,21 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Prefix Sum
 |  |
@@ -363,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
