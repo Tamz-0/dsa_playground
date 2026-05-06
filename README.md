@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Tamz-0/dsa_playground/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tamz-0/dsa_playground/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Tamz-0/dsa_playground/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Tamz-0/dsa_playground/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Tamz-0/dsa_playground/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tamz-0/dsa_playground/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Tamz-0/dsa_playground/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Tamz-0/dsa_playground/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Tamz-0/dsa_playground/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Tamz-0/dsa_playground/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Tamz-0/dsa_playground/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Tamz-0/dsa_playground/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Tamz-0/dsa_playground/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
