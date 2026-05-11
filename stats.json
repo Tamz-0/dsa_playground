@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 126,
+    "easy": 127,
     "medium": 27,
     "hard": 4,
-    "solved": 157,
+    "solved": 158,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -492,6 +492,11 @@
         "README.md": "auto",
         "0977-squares-of-a-sorted-array.py": "auto",
         "0977-squares-of-a-sorted-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "1103-distribute-candies-to-people": {
+        "README.md": "auto",
+        "1103-distribute-candies-to-people.py": "auto",
         "difficulty": "easy"
       },
       "1108-defanging-an-ip-address": {
