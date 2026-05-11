@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/Tamz-0/dsa_playground/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tamz-0/dsa_playground/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/Tamz-0/dsa_playground/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0054-spiral-matrix) |
+| [0661-image-smoother](https://github.com/Tamz-0/dsa_playground/tree/master/0661-image-smoother) |
 | [1672-richest-customer-wealth](https://github.com/Tamz-0/dsa_playground/tree/master/1672-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
