@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tamz-0/dsa_playground/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Tamz-0/dsa_playground/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1200-minimum-absolute-difference](https://github.com/Tamz-0/dsa_playground/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Tamz-0/dsa_playground/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tamz-0/dsa_playground/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Tamz-0/dsa_playground/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tamz-0/dsa_playground/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/Tamz-0/dsa_playground/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tamz-0/dsa_playground/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/Tamz-0/dsa_playground/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tamz-0/dsa_playground/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
