@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Tamz-0/dsa_playground/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tamz-0/dsa_playground/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Prefix Sum
 |  |
