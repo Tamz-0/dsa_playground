@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 103,
+    "easy": 104,
     "medium": 27,
     "hard": 4,
-    "solved": 134,
+    "solved": 135,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -527,6 +527,11 @@
       "1299-replace-elements-with-greatest-element-on-right-side": {
         "README.md": "auto",
         "1299-replace-elements-with-greatest-element-on-right-side.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "1304-find-n-unique-integers-sum-up-to-zero": {
+        "1304-find-n-unique-integers-sum-up-to-zero.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1309-decrypt-string-from-alphabet-to-integer-mapping": {
