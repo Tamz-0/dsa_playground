@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Tamz-0/dsa_playground/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Tamz-0/dsa_playground/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Tamz-0/dsa_playground/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Tamz-0/dsa_playground/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Tamz-0/dsa_playground/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
