@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Tamz-0/dsa_playground/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Tamz-0/dsa_playground/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Tamz-0/dsa_playground/tree/master/0617-merge-two-binary-trees) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -412,4 +415,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0112-path-sum) |
+| [0617-merge-two-binary-trees](https://github.com/Tamz-0/dsa_playground/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
