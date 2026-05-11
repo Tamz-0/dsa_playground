@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Tamz-0/dsa_playground/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tamz-0/dsa_playground/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/Tamz-0/dsa_playground/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tamz-0/dsa_playground/tree/master/1266-minimum-time-visiting-all-points) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Tamz-0/dsa_playground/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Tamz-0/dsa_playground/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/Tamz-0/dsa_playground/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Tamz-0/dsa_playground/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tamz-0/dsa_playground/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tamz-0/dsa_playground/tree/master/2073-time-needed-to-buy-tickets) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0054-spiral-matrix) |
 | [0661-image-smoother](https://github.com/Tamz-0/dsa_playground/tree/master/0661-image-smoother) |
+| [1260-shift-2d-grid](https://github.com/Tamz-0/dsa_playground/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Tamz-0/dsa_playground/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1672-richest-customer-wealth](https://github.com/Tamz-0/dsa_playground/tree/master/1672-richest-customer-wealth) |
 ## Monotonic Stack
