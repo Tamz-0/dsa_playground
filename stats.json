@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 98,
+    "easy": 99,
     "medium": 27,
     "hard": 4,
-    "solved": 129,
+    "solved": 130,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -431,6 +431,11 @@
       "0661-image-smoother": {
         "README.md": "auto",
         "0661-image-smoother.py": "auto",
+        "difficulty": "easy"
+      },
+      "0680-valid-palindrome-ii": {
+        "README.md": "auto",
+        "0680-valid-palindrome-ii.py": "auto",
         "difficulty": "easy"
       },
       "0682-baseball-game": {
