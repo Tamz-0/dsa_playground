@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 86,
+    "easy": 87,
     "medium": 27,
     "hard": 4,
-    "solved": 117,
+    "solved": 118,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -266,6 +266,10 @@
       },
       "0202-happy-number": {
         "0202-happy-number.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "0203-remove-linked-list-elements": {
         "README.md": "auto",
         "difficulty": "easy"
       },
