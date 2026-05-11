@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Tamz-0/dsa_playground/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamz-0/dsa_playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Tamz-0/dsa_playground/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Tamz-0/dsa_playground/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Tamz-0/dsa_playground/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Tamz-0/dsa_playground/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
