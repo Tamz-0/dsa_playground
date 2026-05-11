@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
+| [1103-distribute-candies-to-people](https://github.com/Tamz-0/dsa_playground/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Tamz-0/dsa_playground/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Tamz-0/dsa_playground/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Tamz-0/dsa_playground/tree/master/1175-prime-arrangements) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
+| [1103-distribute-candies-to-people](https://github.com/Tamz-0/dsa_playground/tree/master/1103-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Tamz-0/dsa_playground/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Tamz-0/dsa_playground/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
