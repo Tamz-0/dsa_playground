@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Tamz-0/dsa_playground/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Tamz-0/dsa_playground/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tamz-0/dsa_playground/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tamz-0/dsa_playground/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tamz-0/dsa_playground/tree/master/2114-maximum-number-of-words-found-in-sentences) |
