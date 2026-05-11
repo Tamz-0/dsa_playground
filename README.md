@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Tamz-0/dsa_playground/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tamz-0/dsa_playground/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tamz-0/dsa_playground/tree/master/1266-minimum-time-visiting-all-points) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Tamz-0/dsa_playground/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Tamz-0/dsa_playground/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tamz-0/dsa_playground/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Tamz-0/dsa_playground/tree/master/1390-four-divisors) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tamz-0/dsa_playground/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tamz-0/dsa_playground/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tamz-0/dsa_playground/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Tamz-0/dsa_playground/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/Tamz-0/dsa_playground/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1822-sign-of-the-product-of-an-array) |
