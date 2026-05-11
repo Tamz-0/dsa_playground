@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 96,
+    "easy": 97,
     "medium": 27,
     "hard": 4,
-    "solved": 127,
+    "solved": 128,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -436,6 +436,11 @@
       "0682-baseball-game": {
         "README.md": "auto",
         "0682-baseball-game.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0696-count-binary-substrings": {
+        "README.md": "auto",
+        "0696-count-binary-substrings.py": "auto",
         "difficulty": "easy"
       },
       "0704-binary-search": {
