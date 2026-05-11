@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Tamz-0/dsa_playground/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tamz-0/dsa_playground/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tamz-0/dsa_playground/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tamz-0/dsa_playground/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Tamz-0/dsa_playground/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tamz-0/dsa_playground/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Tamz-0/dsa_playground/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Tamz-0/dsa_playground/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Tamz-0/dsa_playground/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -389,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0098-validate-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Number Theory
 |  |
 | ------- |
@@ -427,4 +433,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0112-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/Tamz-0/dsa_playground/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
