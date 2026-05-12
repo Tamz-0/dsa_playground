@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Tamz-0/dsa_playground/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/Tamz-0/dsa_playground/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tamz-0/dsa_playground/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/Tamz-0/dsa_playground/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/Tamz-0/dsa_playground/tree/master/1108-defanging-an-ip-address) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/Tamz-0/dsa_playground/tree/master/1021-remove-outermost-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tamz-0/dsa_playground/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
