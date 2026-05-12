@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Tamz-0/dsa_playground/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/Tamz-0/dsa_playground/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/Tamz-0/dsa_playground/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Tamz-0/dsa_playground/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tamz-0/dsa_playground/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0696-count-binary-substrings](https://github.com/Tamz-0/dsa_playground/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Tamz-0/dsa_playground/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/Tamz-0/dsa_playground/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tamz-0/dsa_playground/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Tamz-0/dsa_playground/tree/master/1089-duplicate-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tamz-0/dsa_playground/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamz-0/dsa_playground/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Tamz-0/dsa_playground/tree/master/0605-can-place-flowers) |
+| [0942-di-string-match](https://github.com/Tamz-0/dsa_playground/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Tamz-0/dsa_playground/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tamz-0/dsa_playground/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Tamz-0/dsa_playground/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0696-count-binary-substrings](https://github.com/Tamz-0/dsa_playground/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Tamz-0/dsa_playground/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/Tamz-0/dsa_playground/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Tamz-0/dsa_playground/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Tamz-0/dsa_playground/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Tamz-0/dsa_playground/tree/master/1021-remove-outermost-parentheses) |
