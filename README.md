@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/Tamz-0/dsa_playground/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Tamz-0/dsa_playground/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Tamz-0/dsa_playground/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tamz-0/dsa_playground/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Tamz-0/dsa_playground/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/Tamz-0/dsa_playground/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Tamz-0/dsa_playground/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Tamz-0/dsa_playground/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Tamz-0/dsa_playground/tree/master/1021-remove-outermost-parentheses) |
