@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 136,
+    "easy": 137,
     "medium": 27,
     "hard": 4,
-    "solved": 167,
+    "solved": 168,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -492,6 +492,11 @@
         "README.md": "auto",
         "0977-squares-of-a-sorted-array.py": "auto",
         "0977-squares-of-a-sorted-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0997-find-the-town-judge": {
+        "README.md": "auto",
+        "0997-find-the-town-judge.py": "auto",
         "difficulty": "easy"
       },
       "0999-available-captures-for-rook": {
