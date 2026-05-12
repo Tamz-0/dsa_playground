@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0896-monotonic-array](https://github.com/Tamz-0/dsa_playground/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Tamz-0/dsa_playground/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Tamz-0/dsa_playground/tree/master/0953-verifying-an-alien-dictionary) |
