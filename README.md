@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0989-add-to-array-form-of-integer](https://github.com/Tamz-0/dsa_playground/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/Tamz-0/dsa_playground/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/Tamz-0/dsa_playground/tree/master/0999-available-captures-for-rook) |
+| [1002-find-common-characters](https://github.com/Tamz-0/dsa_playground/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tamz-0/dsa_playground/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Tamz-0/dsa_playground/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1089-duplicate-zeros](https://github.com/Tamz-0/dsa_playground/tree/master/1089-duplicate-zeros) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tamz-0/dsa_playground/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Tamz-0/dsa_playground/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/Tamz-0/dsa_playground/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Tamz-0/dsa_playground/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tamz-0/dsa_playground/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Tamz-0/dsa_playground/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Tamz-0/dsa_playground/tree/master/0917-reverse-only-letters) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Tamz-0/dsa_playground/tree/master/0953-verifying-an-alien-dictionary) |
+| [1002-find-common-characters](https://github.com/Tamz-0/dsa_playground/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Tamz-0/dsa_playground/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tamz-0/dsa_playground/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/Tamz-0/dsa_playground/tree/master/1078-occurrences-after-bigram) |
