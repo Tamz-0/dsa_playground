@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 138,
+    "easy": 139,
     "medium": 27,
     "hard": 4,
-    "solved": 169,
+    "solved": 170,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -482,6 +482,11 @@
         "README.md": "auto",
         "0904-fruit-into-baskets.cpp": "auto",
         "difficulty": "medium"
+      },
+      "0953-verifying-an-alien-dictionary": {
+        "README.md": "auto",
+        "0953-verifying-an-alien-dictionary.py": "auto",
+        "difficulty": "easy"
       },
       "0974-subarray-sums-divisible-by-k": {
         "README.md": "auto",
