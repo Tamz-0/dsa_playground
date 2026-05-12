@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Tamz-0/dsa_playground/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tamz-0/dsa_playground/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tamz-0/dsa_playground/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1089-duplicate-zeros](https://github.com/Tamz-0/dsa_playground/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Tamz-0/dsa_playground/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tamz-0/dsa_playground/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Tamz-0/dsa_playground/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tamz-0/dsa_playground/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tamz-0/dsa_playground/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Tamz-0/dsa_playground/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Tamz-0/dsa_playground/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tamz-0/dsa_playground/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamz-0/dsa_playground/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Tamz-0/dsa_playground/tree/master/0605-can-place-flowers) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tamz-0/dsa_playground/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Tamz-0/dsa_playground/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Tamz-0/dsa_playground/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Tamz-0/dsa_playground/tree/master/1323-maximum-69-number) |
