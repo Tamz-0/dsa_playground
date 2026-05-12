@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 139,
+    "easy": 140,
     "medium": 27,
     "hard": 4,
-    "solved": 170,
+    "solved": 171,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -486,6 +486,11 @@
       "0953-verifying-an-alien-dictionary": {
         "README.md": "auto",
         "0953-verifying-an-alien-dictionary.py": "auto",
+        "difficulty": "easy"
+      },
+      "0961-n-repeated-element-in-size-2n-array": {
+        "README.md": "auto",
+        "0961-n-repeated-element-in-size-2n-array.py": "auto",
         "difficulty": "easy"
       },
       "0974-subarray-sums-divisible-by-k": {
