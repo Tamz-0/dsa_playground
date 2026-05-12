@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/Tamz-0/dsa_playground/tree/master/0904-fruit-into-baskets) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Tamz-0/dsa_playground/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tamz-0/dsa_playground/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Tamz-0/dsa_playground/tree/master/0904-fruit-into-baskets) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Tamz-0/dsa_playground/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tamz-0/dsa_playground/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tamz-0/dsa_playground/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Tamz-0/dsa_playground/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Tamz-0/dsa_playground/tree/master/1189-maximum-number-of-balloons) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/Tamz-0/dsa_playground/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Tamz-0/dsa_playground/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tamz-0/dsa_playground/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Trie
 |  |
 | ------- |
