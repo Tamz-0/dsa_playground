@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 151,
+    "easy": 152,
     "medium": 27,
     "hard": 4,
-    "solved": 182,
+    "solved": 183,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -511,6 +511,11 @@
       "0938-range-sum-of-bst": {
         "README.md": "auto",
         "0938-range-sum-of-bst.py": "auto",
+        "difficulty": "easy"
+      },
+      "0941-valid-mountain-array": {
+        "README.md": "auto",
+        "0941-valid-mountain-array.py": "auto",
         "difficulty": "easy"
       },
       "0953-verifying-an-alien-dictionary": {
