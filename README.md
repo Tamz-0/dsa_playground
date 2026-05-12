@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Tamz-0/dsa_playground/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/Tamz-0/dsa_playground/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Tamz-0/dsa_playground/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Tamz-0/dsa_playground/tree/master/0917-reverse-only-letters) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Tamz-0/dsa_playground/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Tamz-0/dsa_playground/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/Tamz-0/dsa_playground/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Tamz-0/dsa_playground/tree/master/0925-long-pressed-name) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Tamz-0/dsa_playground/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Tamz-0/dsa_playground/tree/master/1021-remove-outermost-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tamz-0/dsa_playground/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Tamz-0/dsa_playground/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Tamz-0/dsa_playground/tree/master/0999-available-captures-for-rook) |
 | [1103-distribute-candies-to-people](https://github.com/Tamz-0/dsa_playground/tree/master/1103-distribute-candies-to-people) |
