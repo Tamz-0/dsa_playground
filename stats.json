@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 132,
+    "easy": 133,
     "medium": 27,
     "hard": 4,
-    "solved": 163,
+    "solved": 164,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -502,6 +502,11 @@
       "1009-complement-of-base-10-integer": {
         "README.md": "auto",
         "1009-complement-of-base-10-integer.py": "auto",
+        "difficulty": "easy"
+      },
+      "1021-remove-outermost-parentheses": {
+        "README.md": "auto",
+        "1021-remove-outermost-parentheses.py": "auto",
         "difficulty": "easy"
       },
       "1071-greatest-common-divisor-of-strings": {
