@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 140,
+    "easy": 141,
     "medium": 27,
     "hard": 4,
-    "solved": 171,
+    "solved": 172,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -482,6 +482,11 @@
         "README.md": "auto",
         "0904-fruit-into-baskets.cpp": "auto",
         "difficulty": "medium"
+      },
+      "0917-reverse-only-letters": {
+        "README.md": "auto",
+        "0917-reverse-only-letters.py": "auto",
+        "difficulty": "easy"
       },
       "0953-verifying-an-alien-dictionary": {
         "README.md": "auto",
