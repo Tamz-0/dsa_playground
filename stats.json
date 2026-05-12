@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 146,
+    "easy": 147,
     "medium": 27,
     "hard": 4,
-    "solved": 177,
+    "solved": 178,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -547,6 +547,11 @@
       "0999-available-captures-for-rook": {
         "README.md": "auto",
         "0999-available-captures-for-rook.py": "auto",
+        "difficulty": "easy"
+      },
+      "1002-find-common-characters": {
+        "README.md": "auto",
+        "1002-find-common-characters.py": "auto",
         "difficulty": "easy"
       },
       "1005-maximize-sum-of-array-after-k-negations": {
