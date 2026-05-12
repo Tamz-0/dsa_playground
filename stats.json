@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 147,
+    "easy": 148,
     "medium": 27,
     "hard": 4,
-    "solved": 178,
+    "solved": 179,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -567,6 +567,11 @@
       "1013-partition-array-into-three-parts-with-equal-sum": {
         "README.md": "auto",
         "1013-partition-array-into-three-parts-with-equal-sum.py": "auto",
+        "difficulty": "easy"
+      },
+      "1018-binary-prefix-divisible-by-5": {
+        "README.md": "auto",
+        "1018-binary-prefix-divisible-by-5.py": "auto",
         "difficulty": "easy"
       },
       "1021-remove-outermost-parentheses": {
