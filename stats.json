@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 142,
+    "easy": 143,
     "medium": 27,
     "hard": 4,
-    "solved": 173,
+    "solved": 174,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -486,6 +486,11 @@
       "0917-reverse-only-letters": {
         "README.md": "auto",
         "0917-reverse-only-letters.py": "auto",
+        "difficulty": "easy"
+      },
+      "0933-number-of-recent-calls": {
+        "README.md": "auto",
+        "0933-number-of-recent-calls.py": "auto",
         "difficulty": "easy"
       },
       "0938-range-sum-of-bst": {
