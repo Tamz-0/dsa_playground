@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-smallest-range-i](https://github.com/Tamz-0/dsa_playground/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/Tamz-0/dsa_playground/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Tamz-0/dsa_playground/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Tamz-0/dsa_playground/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0944-delete-columns-to-make-sorted) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Tamz-0/dsa_playground/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/Tamz-0/dsa_playground/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Tamz-0/dsa_playground/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tamz-0/dsa_playground/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tamz-0/dsa_playground/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Tamz-0/dsa_playground/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Tamz-0/dsa_playground/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/Tamz-0/dsa_playground/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Tamz-0/dsa_playground/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Tamz-0/dsa_playground/tree/master/0953-verifying-an-alien-dictionary) |
