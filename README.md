@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0896-monotonic-array](https://github.com/Tamz-0/dsa_playground/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Tamz-0/dsa_playground/tree/master/0904-fruit-into-baskets) |
+| [0908-smallest-range-i](https://github.com/Tamz-0/dsa_playground/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/Tamz-0/dsa_playground/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Tamz-0/dsa_playground/tree/master/0942-di-string-match) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
+| [0908-smallest-range-i](https://github.com/Tamz-0/dsa_playground/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Tamz-0/dsa_playground/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/Tamz-0/dsa_playground/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Tamz-0/dsa_playground/tree/master/0989-add-to-array-form-of-integer) |
