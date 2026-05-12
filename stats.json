@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 144,
+    "easy": 145,
     "medium": 27,
     "hard": 4,
-    "solved": 175,
+    "solved": 176,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -522,6 +522,11 @@
         "README.md": "auto",
         "0977-squares-of-a-sorted-array.py": "auto",
         "0977-squares-of-a-sorted-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0989-add-to-array-form-of-integer": {
+        "README.md": "auto",
+        "0989-add-to-array-form-of-integer.py": "auto",
         "difficulty": "easy"
       },
       "0993-cousins-in-binary-tree": {
