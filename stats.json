@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 181,
+    "easy": 182,
     "medium": 27,
     "hard": 4,
-    "solved": 212,
+    "solved": 213,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -471,6 +471,11 @@
       "0744-find-smallest-letter-greater-than-target": {
         "README.md": "auto",
         "0744-find-smallest-letter-greater-than-target.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0804-unique-morse-code-words": {
+        "README.md": "auto",
+        "0804-unique-morse-code-words.py": "auto",
         "difficulty": "easy"
       },
       "0806-number-of-lines-to-write-string": {
