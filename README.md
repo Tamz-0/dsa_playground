@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0748-shortest-completing-word](https://github.com/Tamz-0/dsa_playground/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/Tamz-0/dsa_playground/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Tamz-0/dsa_playground/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Tamz-0/dsa_playground/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0859-buddy-strings) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0696-count-binary-substrings](https://github.com/Tamz-0/dsa_playground/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Tamz-0/dsa_playground/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/Tamz-0/dsa_playground/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Tamz-0/dsa_playground/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Tamz-0/dsa_playground/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Tamz-0/dsa_playground/tree/master/0819-most-common-word) |
