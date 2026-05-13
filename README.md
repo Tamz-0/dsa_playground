@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Tamz-0/dsa_playground/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tamz-0/dsa_playground/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Tamz-0/dsa_playground/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tamz-0/dsa_playground/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tamz-0/dsa_playground/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Tamz-0/dsa_playground/tree/master/0459-repeated-substring-pattern) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamz-0/dsa_playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Tamz-0/dsa_playground/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tamz-0/dsa_playground/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Tamz-0/dsa_playground/tree/master/1025-divisor-game) |
