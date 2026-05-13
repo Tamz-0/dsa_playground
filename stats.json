@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 183,
+    "easy": 184,
     "medium": 27,
     "hard": 4,
-    "solved": 214,
+    "solved": 215,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -757,6 +757,11 @@
       "1047-remove-all-adjacent-duplicates-in-string": {
         "README.md": "auto",
         "1047-remove-all-adjacent-duplicates-in-string.py": "auto",
+        "difficulty": "easy"
+      },
+      "1051-height-checker": {
+        "README.md": "auto",
+        "1051-height-checker.py": "auto",
         "difficulty": "easy"
       },
       "1071-greatest-common-divisor-of-strings": {
