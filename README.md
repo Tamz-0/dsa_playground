@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Tamz-0/dsa_playground/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0598-range-addition-ii) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Tamz-0/dsa_playground/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Tamz-0/dsa_playground/tree/master/0832-flipping-an-image) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Tamz-0/dsa_playground/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Tamz-0/dsa_playground/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0766-toeplitz-matrix) |
