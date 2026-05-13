@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tamz-0/dsa_playground/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Tamz-0/dsa_playground/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
