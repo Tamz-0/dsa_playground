@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 173,
+    "easy": 174,
     "medium": 27,
     "hard": 4,
-    "solved": 204,
+    "solved": 205,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -471,6 +471,11 @@
       "0744-find-smallest-letter-greater-than-target": {
         "README.md": "auto",
         "0744-find-smallest-letter-greater-than-target.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0821-shortest-distance-to-a-character": {
+        "README.md": "auto",
+        "0821-shortest-distance-to-a-character.py": "auto",
         "difficulty": "easy"
       },
       "0824-goat-latin": {
