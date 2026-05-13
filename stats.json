@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 199,
+    "easy": 200,
     "medium": 27,
     "hard": 4,
-    "solved": 230,
+    "solved": 231,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -496,6 +496,11 @@
       "0709-to-lower-case": {
         "README.md": "auto",
         "0709-to-lower-case.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0717-1-bit-and-2-bit-characters": {
+        "README.md": "auto",
+        "0717-1-bit-and-2-bit-characters.py": "auto",
         "difficulty": "easy"
       },
       "0724-find-pivot-index": {
