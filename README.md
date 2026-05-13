@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/Tamz-0/dsa_playground/tree/master/0748-shortest-completing-word) |
+| [0766-toeplitz-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Tamz-0/dsa_playground/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Tamz-0/dsa_playground/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/Tamz-0/dsa_playground/tree/master/0812-largest-triangle-area) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0054-spiral-matrix) |
 | [0661-image-smoother](https://github.com/Tamz-0/dsa_playground/tree/master/0661-image-smoother) |
+| [0766-toeplitz-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Tamz-0/dsa_playground/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Tamz-0/dsa_playground/tree/master/0883-projection-area-of-3d-shapes) |
