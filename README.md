@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1018-binary-prefix-divisible-by-5](https://github.com/Tamz-0/dsa_playground/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Tamz-0/dsa_playground/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Tamz-0/dsa_playground/tree/master/1037-valid-boomerang) |
+| [1046-last-stone-weight](https://github.com/Tamz-0/dsa_playground/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Tamz-0/dsa_playground/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Tamz-0/dsa_playground/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tamz-0/dsa_playground/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/Tamz-0/dsa_playground/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/Tamz-0/dsa_playground/tree/master/2974-minimum-number-game) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Tamz-0/dsa_playground/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Linked List
