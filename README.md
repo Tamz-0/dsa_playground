@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Tamz-0/dsa_playground/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0495-teemo-attacking](https://github.com/Tamz-0/dsa_playground/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Tamz-0/dsa_playground/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Tamz-0/dsa_playground/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Tamz-0/dsa_playground/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/Tamz-0/dsa_playground/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
