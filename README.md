@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1030-matrix-cells-in-distance-order](https://github.com/Tamz-0/dsa_playground/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Tamz-0/dsa_playground/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/Tamz-0/dsa_playground/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/Tamz-0/dsa_playground/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Tamz-0/dsa_playground/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Tamz-0/dsa_playground/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tamz-0/dsa_playground/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/Tamz-0/dsa_playground/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tamz-0/dsa_playground/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Tamz-0/dsa_playground/tree/master/1030-matrix-cells-in-distance-order) |
+| [1051-height-checker](https://github.com/Tamz-0/dsa_playground/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Tamz-0/dsa_playground/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Tamz-0/dsa_playground/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tamz-0/dsa_playground/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Tamz-0/dsa_playground/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Tamz-0/dsa_playground/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tamz-0/dsa_playground/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
