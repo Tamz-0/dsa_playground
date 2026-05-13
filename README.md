@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Tamz-0/dsa_playground/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Tamz-0/dsa_playground/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Tamz-0/dsa_playground/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Tamz-0/dsa_playground/tree/master/0561-array-partition) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Tamz-0/dsa_playground/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tamz-0/dsa_playground/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Tamz-0/dsa_playground/tree/master/0496-next-greater-element-i) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Tamz-0/dsa_playground/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tamz-0/dsa_playground/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0434-number-of-segments-in-a-string) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tamz-0/dsa_playground/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Tamz-0/dsa_playground/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Tamz-0/dsa_playground/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Tamz-0/dsa_playground/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Tamz-0/dsa_playground/tree/master/0476-number-complement) |
