@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Tamz-0/dsa_playground/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0496-next-greater-element-i](https://github.com/Tamz-0/dsa_playground/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Tamz-0/dsa_playground/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tamz-0/dsa_playground/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Tamz-0/dsa_playground/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Tamz-0/dsa_playground/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Tamz-0/dsa_playground/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tamz-0/dsa_playground/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Tamz-0/dsa_playground/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
