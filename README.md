@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tamz-0/dsa_playground/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tamz-0/dsa_playground/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Tamz-0/dsa_playground/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Tamz-0/dsa_playground/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Tamz-0/dsa_playground/tree/master/1009-complement-of-base-10-integer) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tamz-0/dsa_playground/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Tamz-0/dsa_playground/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Tamz-0/dsa_playground/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Tamz-0/dsa_playground/tree/master/0883-projection-area-of-3d-shapes) |
