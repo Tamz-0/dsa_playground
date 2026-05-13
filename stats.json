@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 215,
+    "easy": 218,
     "medium": 27,
     "hard": 4,
-    "solved": 246,
+    "solved": 249,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -382,6 +382,21 @@
         "0525-contiguous-array.java": "auto",
         "0525-contiguous-array.cpp": "auto",
         "difficulty": "medium"
+      },
+      "0530-minimum-absolute-difference-in-bst": {
+        "README.md": "auto",
+        "0530-minimum-absolute-difference-in-bst.py": "auto",
+        "difficulty": "easy"
+      },
+      "0541-reverse-string-ii": {
+        "README.md": "auto",
+        "0541-reverse-string-ii.py": "auto",
+        "difficulty": "easy"
+      },
+      "0543-diameter-of-binary-tree": {
+        "README.md": "auto",
+        "0543-diameter-of-binary-tree.py": "auto",
+        "difficulty": "easy"
       },
       "0551-student-attendance-record-i": {
         "README.md": "auto",
