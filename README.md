@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0804-unique-morse-code-words](https://github.com/Tamz-0/dsa_playground/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Tamz-0/dsa_playground/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/Tamz-0/dsa_playground/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Tamz-0/dsa_playground/tree/master/0819-most-common-word) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0804-unique-morse-code-words](https://github.com/Tamz-0/dsa_playground/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Tamz-0/dsa_playground/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tamz-0/dsa_playground/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Tamz-0/dsa_playground/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
+| [0804-unique-morse-code-words](https://github.com/Tamz-0/dsa_playground/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Tamz-0/dsa_playground/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Tamz-0/dsa_playground/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tamz-0/dsa_playground/tree/master/0821-shortest-distance-to-a-character) |
