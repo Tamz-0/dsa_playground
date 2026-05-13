@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 206,
+    "easy": 207,
     "medium": 27,
     "hard": 4,
-    "solved": 237,
+    "solved": 238,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -387,6 +387,11 @@
         "README.md": "auto",
         "0560-subarray-sum-equals-k.java": "auto",
         "difficulty": "medium"
+      },
+      "0589-n-ary-tree-preorder-traversal": {
+        "README.md": "auto",
+        "0589-n-ary-tree-preorder-traversal.py": "auto",
+        "difficulty": "easy"
       },
       "0590-n-ary-tree-postorder-traversal": {
         "README.md": "auto",
