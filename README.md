@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Tamz-0/dsa_playground/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tamz-0/dsa_playground/tree/master/0706-design-hashmap) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Tamz-0/dsa_playground/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tamz-0/dsa_playground/tree/master/0746-min-cost-climbing-stairs) |
