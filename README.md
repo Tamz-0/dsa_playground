@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/Tamz-0/dsa_playground/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Tamz-0/dsa_playground/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Tamz-0/dsa_playground/tree/master/0883-projection-area-of-3d-shapes) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Tamz-0/dsa_playground/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/Tamz-0/dsa_playground/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Tamz-0/dsa_playground/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Tamz-0/dsa_playground/tree/master/0905-sort-array-by-parity) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tamz-0/dsa_playground/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/Tamz-0/dsa_playground/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Tamz-0/dsa_playground/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Tamz-0/dsa_playground/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Tamz-0/dsa_playground/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Tamz-0/dsa_playground/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Tamz-0/dsa_playground/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Tamz-0/dsa_playground/tree/master/0999-available-captures-for-rook) |
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0054-spiral-matrix) |
 | [0661-image-smoother](https://github.com/Tamz-0/dsa_playground/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/Tamz-0/dsa_playground/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Tamz-0/dsa_playground/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Tamz-0/dsa_playground/tree/master/0892-surface-area-of-3d-shapes) |
