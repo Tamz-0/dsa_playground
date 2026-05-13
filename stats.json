@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 178,
+    "easy": 179,
     "medium": 27,
     "hard": 4,
-    "solved": 209,
+    "solved": 210,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -732,6 +732,11 @@
       "1025-divisor-game": {
         "README.md": "auto",
         "1025-divisor-game.py": "auto",
+        "difficulty": "easy"
+      },
+      "1030-matrix-cells-in-distance-order": {
+        "README.md": "auto",
+        "1030-matrix-cells-in-distance-order.py": "auto",
         "difficulty": "easy"
       },
       "1071-greatest-common-divisor-of-strings": {
