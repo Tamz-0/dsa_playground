@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 200,
+    "easy": 201,
     "medium": 27,
     "hard": 4,
-    "solved": 231,
+    "solved": 232,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -506,6 +506,11 @@
       "0724-find-pivot-index": {
         "README.md": "auto",
         "0724-find-pivot-index.js": "auto",
+        "difficulty": "easy"
+      },
+      "0728-self-dividing-numbers": {
+        "README.md": "auto",
+        "0728-self-dividing-numbers.py": "auto",
         "difficulty": "easy"
       },
       "0744-find-smallest-letter-greater-than-target": {
