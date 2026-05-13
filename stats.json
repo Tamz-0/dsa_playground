@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 242,
+    "easy": 243,
     "medium": 27,
     "hard": 4,
-    "solved": 273,
+    "solved": 274,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -379,6 +379,11 @@
       "0405-convert-a-number-to-hexadecimal": {
         "README.md": "auto",
         "0405-convert-a-number-to-hexadecimal.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0409-longest-palindrome": {
+        "README.md": "auto",
+        "0409-longest-palindrome.cpp": "auto",
         "difficulty": "easy"
       },
       "0414-third-maximum-number": {
