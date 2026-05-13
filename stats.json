@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 198,
+    "easy": 199,
     "medium": 27,
     "hard": 4,
-    "solved": 229,
+    "solved": 230,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -471,6 +471,11 @@
       "0700-search-in-a-binary-search-tree": {
         "README.md": "auto",
         "0700-search-in-a-binary-search-tree.py": "auto",
+        "difficulty": "easy"
+      },
+      "0703-kth-largest-element-in-a-stream": {
+        "README.md": "auto",
+        "0703-kth-largest-element-in-a-stream.py": "auto",
         "difficulty": "easy"
       },
       "0704-binary-search": {
