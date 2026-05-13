@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tamz-0/dsa_playground/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/Tamz-0/dsa_playground/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Tamz-0/dsa_playground/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Tamz-0/dsa_playground/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0693-binary-number-with-alternating-bits) |
