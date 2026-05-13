@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tamz-0/dsa_playground/tree/master/0424-longest-repeating-character-replacement) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Tamz-0/dsa_playground/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Tamz-0/dsa_playground/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tamz-0/dsa_playground/tree/master/0557-reverse-words-in-a-string-iii) |
