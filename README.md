@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Tamz-0/dsa_playground/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Tamz-0/dsa_playground/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0594-longest-harmonious-subsequence) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tamz-0/dsa_playground/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Tamz-0/dsa_playground/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Tamz-0/dsa_playground/tree/master/0645-set-mismatch) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamz-0/dsa_playground/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Tamz-0/dsa_playground/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Tamz-0/dsa_playground/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Tamz-0/dsa_playground/tree/master/0860-lemonade-change) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Tamz-0/dsa_playground/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Tamz-0/dsa_playground/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Tamz-0/dsa_playground/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tamz-0/dsa_playground/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
