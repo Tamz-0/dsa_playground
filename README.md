@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Tamz-0/dsa_playground/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Tamz-0/dsa_playground/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Tamz-0/dsa_playground/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/Tamz-0/dsa_playground/tree/master/1037-valid-boomerang) |
 | [1089-duplicate-zeros](https://github.com/Tamz-0/dsa_playground/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Tamz-0/dsa_playground/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tamz-0/dsa_playground/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0989-add-to-array-form-of-integer](https://github.com/Tamz-0/dsa_playground/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Tamz-0/dsa_playground/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Tamz-0/dsa_playground/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/Tamz-0/dsa_playground/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tamz-0/dsa_playground/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/Tamz-0/dsa_playground/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Tamz-0/dsa_playground/tree/master/1137-n-th-tribonacci-number) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0883-projection-area-of-3d-shapes](https://github.com/Tamz-0/dsa_playground/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Tamz-0/dsa_playground/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Tamz-0/dsa_playground/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/Tamz-0/dsa_playground/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Tamz-0/dsa_playground/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tamz-0/dsa_playground/tree/master/1266-minimum-time-visiting-all-points) |
 ## Matrix
