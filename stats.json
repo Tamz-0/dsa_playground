@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 196,
+    "easy": 197,
     "medium": 27,
     "hard": 4,
-    "solved": 227,
+    "solved": 228,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -476,6 +476,11 @@
       "0704-binary-search": {
         "README.md": "auto",
         "0704-binary-search.py": "auto",
+        "difficulty": "easy"
+      },
+      "0706-design-hashmap": {
+        "README.md": "auto",
+        "0706-design-hashmap.py": "auto",
         "difficulty": "easy"
       },
       "0709-to-lower-case": {
