@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Tamz-0/dsa_playground/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
+| [0824-goat-latin](https://github.com/Tamz-0/dsa_playground/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/Tamz-0/dsa_playground/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/Tamz-0/dsa_playground/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0859-buddy-strings) |
