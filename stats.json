@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 243,
+    "easy": 245,
     "medium": 27,
     "hard": 4,
-    "solved": 274,
+    "solved": 276,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -386,9 +386,19 @@
         "0409-longest-palindrome.cpp": "auto",
         "difficulty": "easy"
       },
+      "0412-fizz-buzz": {
+        "README.md": "auto",
+        "0412-fizz-buzz.cpp": "auto",
+        "difficulty": "easy"
+      },
       "0414-third-maximum-number": {
         "README.md": "auto",
         "0414-third-maximum-number.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0415-add-strings": {
+        "README.md": "auto",
+        "0415-add-strings.py": "auto",
         "difficulty": "easy"
       },
       "0424-longest-repeating-character-replacement": {
