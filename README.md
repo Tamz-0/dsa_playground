@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/Tamz-0/dsa_playground/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tamz-0/dsa_playground/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Tamz-0/dsa_playground/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Tamz-0/dsa_playground/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tamz-0/dsa_playground/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Tamz-0/dsa_playground/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Tamz-0/dsa_playground/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Tamz-0/dsa_playground/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Tamz-0/dsa_playground/tree/master/0905-sort-array-by-parity) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Tamz-0/dsa_playground/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Tamz-0/dsa_playground/tree/master/0705-design-hashset) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tamz-0/dsa_playground/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Tamz-0/dsa_playground/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tamz-0/dsa_playground/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Tamz-0/dsa_playground/tree/master/0832-flipping-an-image) |
