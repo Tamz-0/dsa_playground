@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Tamz-0/dsa_playground/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Tamz-0/dsa_playground/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Tamz-0/dsa_playground/tree/master/0804-unique-morse-code-words) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tamz-0/dsa_playground/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamz-0/dsa_playground/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Tamz-0/dsa_playground/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Tamz-0/dsa_playground/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Tamz-0/dsa_playground/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0922-sort-array-by-parity-ii) |
