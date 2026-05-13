@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Tamz-0/dsa_playground/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Tamz-0/dsa_playground/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamz-0/dsa_playground/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Tamz-0/dsa_playground/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Tamz-0/dsa_playground/tree/master/0645-set-mismatch) |
