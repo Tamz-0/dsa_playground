@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Tamz-0/dsa_playground/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0463-island-perimeter](https://github.com/Tamz-0/dsa_playground/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Tamz-0/dsa_playground/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Tamz-0/dsa_playground/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Tamz-0/dsa_playground/tree/master/0496-next-greater-element-i) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0463-island-perimeter](https://github.com/Tamz-0/dsa_playground/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0543-diameter-of-binary-tree) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0054-spiral-matrix) |
+| [0463-island-perimeter](https://github.com/Tamz-0/dsa_playground/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Tamz-0/dsa_playground/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Tamz-0/dsa_playground/tree/master/0733-flood-fill) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0112-path-sum) |
+| [0463-island-perimeter](https://github.com/Tamz-0/dsa_playground/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Tamz-0/dsa_playground/tree/master/0617-merge-two-binary-trees) |
