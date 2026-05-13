@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0806-number-of-lines-to-write-string](https://github.com/Tamz-0/dsa_playground/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/Tamz-0/dsa_playground/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Tamz-0/dsa_playground/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tamz-0/dsa_playground/tree/master/0821-shortest-distance-to-a-character) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Tamz-0/dsa_playground/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Tamz-0/dsa_playground/tree/master/0709-to-lower-case) |
+| [0806-number-of-lines-to-write-string](https://github.com/Tamz-0/dsa_playground/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Tamz-0/dsa_playground/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tamz-0/dsa_playground/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/Tamz-0/dsa_playground/tree/master/0824-goat-latin) |
