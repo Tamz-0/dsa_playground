@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 177,
+    "easy": 178,
     "medium": 27,
     "hard": 4,
-    "solved": 208,
+    "solved": 209,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -727,6 +727,11 @@
       "1022-sum-of-root-to-leaf-binary-numbers": {
         "README.md": "auto",
         "1022-sum-of-root-to-leaf-binary-numbers.py": "auto",
+        "difficulty": "easy"
+      },
+      "1025-divisor-game": {
+        "README.md": "auto",
+        "1025-divisor-game.py": "auto",
         "difficulty": "easy"
       },
       "1071-greatest-common-divisor-of-strings": {
