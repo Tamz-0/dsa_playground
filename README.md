@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/Tamz-0/dsa_playground/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Tamz-0/dsa_playground/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Tamz-0/dsa_playground/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tamz-0/dsa_playground/tree/master/0746-min-cost-climbing-stairs) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/0697-degree-of-an-array) |
+| [0706-design-hashmap](https://github.com/Tamz-0/dsa_playground/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/Tamz-0/dsa_playground/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Tamz-0/dsa_playground/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Tamz-0/dsa_playground/tree/master/0804-unique-morse-code-words) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Tamz-0/dsa_playground/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/Tamz-0/dsa_playground/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tamz-0/dsa_playground/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/Tamz-0/dsa_playground/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/Tamz-0/dsa_playground/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -707,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Tamz-0/dsa_playground/tree/master/1025-divisor-game) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Tamz-0/dsa_playground/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
