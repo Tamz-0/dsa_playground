@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 218,
+    "easy": 219,
     "medium": 27,
     "hard": 4,
-    "solved": 249,
+    "solved": 250,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -376,6 +376,10 @@
         "0453-minimum-moves-to-equal-array-elements.cpp": "auto",
         "0453-minimum-moves-to-equal-array-elements.java": "auto",
         "difficulty": "medium"
+      },
+      "0521-longest-uncommon-subsequence-i": {
+        "README.md": "auto",
+        "difficulty": "easy"
       },
       "0525-contiguous-array": {
         "README.md": "auto",
