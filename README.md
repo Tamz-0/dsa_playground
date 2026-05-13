@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tamz-0/dsa_playground/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/Tamz-0/dsa_playground/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Tamz-0/dsa_playground/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Tamz-0/dsa_playground/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Tamz-0/dsa_playground/tree/master/0504-base-7) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Tamz-0/dsa_playground/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Tamz-0/dsa_playground/tree/master/0796-rotate-string) |
 ## Breadth-First Search
