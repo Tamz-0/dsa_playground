@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 260,
+    "easy": 261,
     "medium": 27,
     "hard": 4,
-    "solved": 291,
+    "solved": 292,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -297,6 +297,11 @@
       "0231-power-of-two": {
         "README.md": "auto",
         "0231-power-of-two.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0232-implement-queue-using-stacks": {
+        "README.md": "auto",
+        "0232-implement-queue-using-stacks.cpp": "auto",
         "difficulty": "easy"
       },
       "0234-palindrome-linked-list": {
