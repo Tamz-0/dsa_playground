@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tamz-0/dsa_playground/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Tamz-0/dsa_playground/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tamz-0/dsa_playground/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Tamz-0/dsa_playground/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Tamz-0/dsa_playground/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Tamz-0/dsa_playground/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tamz-0/dsa_playground/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Tamz-0/dsa_playground/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0415-add-strings) |
