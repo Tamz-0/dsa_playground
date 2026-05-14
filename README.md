@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1018-binary-prefix-divisible-by-5](https://github.com/Tamz-0/dsa_playground/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1486-xor-operation-in-an-array](https://github.com/Tamz-0/dsa_playground/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tamz-0/dsa_playground/tree/master/2351-first-letter-to-appear-twice) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Tamz-0/dsa_playground/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Counting
 |  |
 | ------- |
