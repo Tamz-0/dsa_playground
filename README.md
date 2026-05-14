@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tamz-0/dsa_playground/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Tamz-0/dsa_playground/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Tamz-0/dsa_playground/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Tamz-0/dsa_playground/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tamz-0/dsa_playground/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -856,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Tamz-0/dsa_playground/tree/master/0401-binary-watch) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Tamz-0/dsa_playground/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
