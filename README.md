@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tamz-0/dsa_playground/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Tamz-0/dsa_playground/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Tamz-0/dsa_playground/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Tamz-0/dsa_playground/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tamz-0/dsa_playground/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Tamz-0/dsa_playground/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Tamz-0/dsa_playground/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Tamz-0/dsa_playground/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Tamz-0/dsa_playground/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Tamz-0/dsa_playground/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tamz-0/dsa_playground/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Tamz-0/dsa_playground/tree/master/0412-fizz-buzz) |
