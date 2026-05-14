@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/Tamz-0/dsa_playground/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tamz-0/dsa_playground/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tamz-0/dsa_playground/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Tamz-0/dsa_playground/tree/master/0496-next-greater-element-i) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tamz-0/dsa_playground/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tamz-0/dsa_playground/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Tamz-0/dsa_playground/tree/master/0933-number-of-recent-calls) |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tamz-0/dsa_playground/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tamz-0/dsa_playground/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Tamz-0/dsa_playground/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tamz-0/dsa_playground/tree/master/0703-kth-largest-element-in-a-stream) |
