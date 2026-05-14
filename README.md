@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tamz-0/dsa_playground/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Tamz-0/dsa_playground/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Tamz-0/dsa_playground/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tamz-0/dsa_playground/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Tamz-0/dsa_playground/tree/master/0459-repeated-substring-pattern) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tamz-0/dsa_playground/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Tamz-0/dsa_playground/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Tamz-0/dsa_playground/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tamz-0/dsa_playground/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/Tamz-0/dsa_playground/tree/master/0492-construct-the-rectangle) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Tamz-0/dsa_playground/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Tamz-0/dsa_playground/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Tamz-0/dsa_playground/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Tamz-0/dsa_playground/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Tamz-0/dsa_playground/tree/master/0657-robot-return-to-origin) |
