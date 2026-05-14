@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Tamz-0/dsa_playground/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Tamz-0/dsa_playground/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Tamz-0/dsa_playground/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Tamz-0/dsa_playground/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tamz-0/dsa_playground/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Tamz-0/dsa_playground/tree/master/0367-valid-perfect-square) |
@@ -867,10 +868,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Tamz-0/dsa_playground/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Tamz-0/dsa_playground/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Tamz-0/dsa_playground/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Tamz-0/dsa_playground/tree/master/1025-divisor-game) |
 ## Hash Function
 |  |
