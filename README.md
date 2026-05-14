@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Tamz-0/dsa_playground/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tamz-0/dsa_playground/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Tamz-0/dsa_playground/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Tamz-0/dsa_playground/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Tamz-0/dsa_playground/tree/master/0401-binary-watch) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamz-0/dsa_playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Tamz-0/dsa_playground/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tamz-0/dsa_playground/tree/master/0746-min-cost-climbing-stairs) |
