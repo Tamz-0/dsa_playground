@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Tamz-0/dsa_playground/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Tamz-0/dsa_playground/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tamz-0/dsa_playground/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Tamz-0/dsa_playground/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamz-0/dsa_playground/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Tamz-0/dsa_playground/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0191-number-of-1-bits) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0112-path-sum) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0112-path-sum) |
@@ -788,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0653-two-sum-iv-input-is-a-bst) |
