@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Tamz-0/dsa_playground/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamz-0/dsa_playground/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Tamz-0/dsa_playground/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tamz-0/dsa_playground/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tamz-0/dsa_playground/tree/master/0219-contains-duplicate-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Tamz-0/dsa_playground/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tamz-0/dsa_playground/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tamz-0/dsa_playground/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Tamz-0/dsa_playground/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Tamz-0/dsa_playground/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Tamz-0/dsa_playground/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tamz-0/dsa_playground/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Tamz-0/dsa_playground/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Tamz-0/dsa_playground/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tamz-0/dsa_playground/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Tamz-0/dsa_playground/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0594-longest-harmonious-subsequence) |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tamz-0/dsa_playground/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Tamz-0/dsa_playground/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tamz-0/dsa_playground/tree/master/0191-number-of-1-bits) |
 ## Tree
