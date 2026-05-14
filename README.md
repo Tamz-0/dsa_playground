@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Tamz-0/dsa_playground/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Tamz-0/dsa_playground/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Tamz-0/dsa_playground/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0345-reverse-vowels-of-a-string) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Tamz-0/dsa_playground/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Tamz-0/dsa_playground/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Tamz-0/dsa_playground/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Tamz-0/dsa_playground/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Tamz-0/dsa_playground/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamz-0/dsa_playground/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Tamz-0/dsa_playground/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Tamz-0/dsa_playground/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tamz-0/dsa_playground/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tamz-0/dsa_playground/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -887,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Tamz-0/dsa_playground/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Tamz-0/dsa_playground/tree/master/0401-binary-watch) |
 ## Interactive
 |  |
