@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Tamz-0/dsa_playground/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tamz-0/dsa_playground/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Tamz-0/dsa_playground/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tamz-0/dsa_playground/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Tamz-0/dsa_playground/tree/master/0409-longest-palindrome) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0224-basic-calculator](https://github.com/Tamz-0/dsa_playground/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Tamz-0/dsa_playground/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tamz-0/dsa_playground/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Tamz-0/dsa_playground/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tamz-0/dsa_playground/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0392-is-subsequence) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Tamz-0/dsa_playground/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tamz-0/dsa_playground/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tamz-0/dsa_playground/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Tamz-0/dsa_playground/tree/master/0819-most-common-word) |
